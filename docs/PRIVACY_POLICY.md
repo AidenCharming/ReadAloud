@@ -1,8 +1,6 @@
 # ReadAloud privacy policy
 
-Draft: fill in the date, then host this page at a public web address (Google Play requires a URL). The contact line shows both your name and your AidenCharming handle; keep whichever you want public, because anyone reading the policy will see it.
-
-**Last updated:** [date]
+**Last updated:** October 24, 2026
 **Contact:** Tim Johnson (AidenCharming), gorre9090@gmail.com
 
 ## The short version
